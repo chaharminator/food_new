@@ -5,3 +5,4 @@ FoodSAM/ckpts/*
 FoodSAM/dataset/images.jpeg
 FoodSAM/dataset/image2.jpeg
 Week3/checkpoints/sam_vit_h_4b8939.pth
+Week3/sam2/
