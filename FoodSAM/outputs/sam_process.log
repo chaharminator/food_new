@@ -1,0 +1,28 @@
+[2025-10-16 22:04:16,814] [semantic.py:269] [INFO] running sam!
+[2025-10-16 22:04:22,358] [semantic.py:287] [INFO] Processing 'dataset/image1.jpeg'...
+[2025-10-16 22:04:24,736] [semantic.py:300] [INFO] sam done!
+
+[2025-10-16 22:04:24,736] [semantic.py:303] [INFO] running semantic seg model!
+[2025-10-16 22:04:26,329] [semantic.py:305] [INFO] semantic predict done!
+
+[2025-10-16 22:04:26,329] [semantic.py:308] [INFO] enhance semantic masks
+[2025-10-16 22:04:26,333] [enhance_semantic_masks.py:28] [INFO] outputs/image1/sam_mask/0 assign label: [ 0, background, 1.00, 0.3410 ]
+[2025-10-16 22:04:26,336] [enhance_semantic_masks.py:28] [INFO] outputs/image1/sam_mask/1 assign label: [ 65, noodles, 1.00, 0.3354 ]
+[2025-10-16 22:04:26,336] [enhance_semantic_masks.py:28] [INFO] outputs/image1/sam_mask/2 assign label: [ 0, background, 1.00, 0.1178 ]
+[2025-10-16 22:04:26,338] [enhance_semantic_masks.py:28] [INFO] outputs/image1/sam_mask/3 assign label: [ 0, background, 0.99, 0.1683 ]
+[2025-10-16 22:04:26,341] [enhance_semantic_masks.py:28] [INFO] outputs/image1/sam_mask/4 assign label: [ 0, background, 1.00, 0.4596 ]
+[2025-10-16 22:04:26,342] [enhance_semantic_masks.py:28] [INFO] outputs/image1/sam_mask/5 assign label: [ 0, background, 1.00, 0.0911 ]
+[2025-10-16 22:04:26,342] [enhance_semantic_masks.py:28] [INFO] outputs/image1/sam_mask/6 assign label: [ 65, noodles, 0.94, 0.0083 ]
+[2025-10-16 22:04:26,342] [enhance_semantic_masks.py:28] [INFO] outputs/image1/sam_mask/7 assign label: [ 65, noodles, 1.00, 0.0012 ]
+[2025-10-16 22:04:26,342] [enhance_semantic_masks.py:28] [INFO] outputs/image1/sam_mask/8 assign label: [ 65, noodles, 1.00, 0.0012 ]
+[2025-10-16 22:04:26,342] [enhance_semantic_masks.py:28] [INFO] outputs/image1/sam_mask/9 assign label: [ 0, background, 1.00, 0.0049 ]
+[2025-10-16 22:04:26,342] [enhance_semantic_masks.py:28] [INFO] outputs/image1/sam_mask/10 assign label: [ 0, background, 1.00, 0.0013 ]
+[2025-10-16 22:04:26,342] [enhance_semantic_masks.py:28] [INFO] outputs/image1/sam_mask/11 assign label: [ 65, noodles, 1.00, 0.0013 ]
+[2025-10-16 22:04:26,342] [enhance_semantic_masks.py:28] [INFO] outputs/image1/sam_mask/12 assign label: [ 0, background, 1.00, 0.0013 ]
+[2025-10-16 22:04:26,342] [enhance_semantic_masks.py:28] [INFO] outputs/image1/sam_mask/13 assign label: [ 65, noodles, 1.00, 0.0014 ]
+[2025-10-16 22:04:26,343] [enhance_semantic_masks.py:28] [INFO] outputs/image1/sam_mask/14 assign label: [ 65, noodles, 1.00, 0.0097 ]
+[2025-10-16 22:04:26,343] [enhance_semantic_masks.py:28] [INFO] outputs/image1/sam_mask/15 assign label: [ 65, noodles, 1.00, 0.0023 ]
+[2025-10-16 22:04:26,348] [semantic.py:310] [INFO] enhance semantic masks done!
+
+[2025-10-16 22:04:26,348] [semantic.py:317] [INFO] The results saved in outputs!
+

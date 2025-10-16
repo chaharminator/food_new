@@ -1,2 +1,6 @@
-.env
-Week1/test_images/
+__pycache__/
+FoodSAM/ckpts/SETR_MLA/*
+!FoodSAM/ckpts/SETR_MLA/.gitkeep
+FoodSAM/ckpts/*
+FoodSAM/dataset/images.jpeg
+FoodSAM/dataset/image2.jpeg

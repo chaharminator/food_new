@@ -1,0 +1,17 @@
+id,category_id,category_name,category_count_ratio,mask_count_ratio
+0,0,background,1.00,0.3410
+1,65,noodles,1.00,0.3354
+2,0,background,1.00,0.1178
+3,0,background,0.99,0.1683
+4,0,background,1.00,0.4596
+5,0,background,1.00,0.0911
+6,65,noodles,0.94,0.0083
+7,65,noodles,1.00,0.0012
+8,65,noodles,1.00,0.0012
+9,0,background,1.00,0.0049
+10,0,background,1.00,0.0013
+11,65,noodles,1.00,0.0013
+12,0,background,1.00,0.0013
+13,65,noodles,1.00,0.0014
+14,65,noodles,1.00,0.0097
+15,65,noodles,1.00,0.0023
