@@ -6,3 +6,10 @@ FoodSAM/dataset/images.jpeg
 FoodSAM/dataset/image2.jpeg
 Week3/checkpoints/sam_vit_h_4b8939.pth
 Week3/sam2/
+Week4/InstantMesh/*
+Week4/InstantMesh/.*
+!Week4/InstantMesh/outputs/
+!Week4/InstantMesh/outputs/**
+!Week4/InstantMesh/outputs_sam2/
+!Week4/InstantMesh/outputs_sam2/**
+!Week4/InstantMesh/*.ipynb
