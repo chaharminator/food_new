@@ -1,0 +1,152 @@
+[
+  {
+    "image": "image1.jpeg",
+    "mask_index": 0,
+    "pixels_per_cm": null,
+    "volume_value": 0.0,
+    "volume_unit": "arb",
+    "density_label": "default",
+    "density_g_per_cm3": 0.85,
+    "weight_g": NaN
+  },
+  {
+    "image": "image1.jpeg",
+    "mask_index": 1,
+    "pixels_per_cm": null,
+    "volume_value": 0.0,
+    "volume_unit": "arb",
+    "density_label": "default",
+    "density_g_per_cm3": 0.85,
+    "weight_g": NaN
+  },
+  {
+    "image": "image1.jpeg",
+    "mask_index": 2,
+    "pixels_per_cm": null,
+    "volume_value": 931744.0625,
+    "volume_unit": "arb",
+    "density_label": "default",
+    "density_g_per_cm3": 0.85,
+    "weight_g": NaN
+  },
+  {
+    "image": "image2.jpeg",
+    "mask_index": 0,
+    "pixels_per_cm": null,
+    "volume_value": 1271379.25,
+    "volume_unit": "arb",
+    "density_label": "default",
+    "density_g_per_cm3": 0.85,
+    "weight_g": NaN
+  },
+  {
+    "image": "image2.jpeg",
+    "mask_index": 1,
+    "pixels_per_cm": null,
+    "volume_value": 2963210.0,
+    "volume_unit": "arb",
+    "density_label": "default",
+    "density_g_per_cm3": 0.85,
+    "weight_g": NaN
+  },
+  {
+    "image": "image2.jpeg",
+    "mask_index": 2,
+    "pixels_per_cm": null,
+    "volume_value": 11726.5087890625,
+    "volume_unit": "arb",
+    "density_label": "default",
+    "density_g_per_cm3": 0.85,
+    "weight_g": NaN
+  },
+  {
+    "image": "image2.jpeg",
+    "mask_index": 3,
+    "pixels_per_cm": null,
+    "volume_value": 2674942.75,
+    "volume_unit": "arb",
+    "density_label": "default",
+    "density_g_per_cm3": 0.85,
+    "weight_g": NaN
+  },
+  {
+    "image": "image2.jpeg",
+    "mask_index": 4,
+    "pixels_per_cm": null,
+    "volume_value": 352961.40625,
+    "volume_unit": "arb",
+    "density_label": "default",
+    "density_g_per_cm3": 0.85,
+    "weight_g": NaN
+  },
+  {
+    "image": "images.jpeg",
+    "mask_index": 0,
+    "pixels_per_cm": null,
+    "volume_value": 0.0,
+    "volume_unit": "arb",
+    "density_label": "default",
+    "density_g_per_cm3": 0.85,
+    "weight_g": NaN
+  },
+  {
+    "image": "images.jpeg",
+    "mask_index": 1,
+    "pixels_per_cm": null,
+    "volume_value": 0.0,
+    "volume_unit": "arb",
+    "density_label": "default",
+    "density_g_per_cm3": 0.85,
+    "weight_g": NaN
+  },
+  {
+    "image": "images.jpeg",
+    "mask_index": 2,
+    "pixels_per_cm": null,
+    "volume_value": 0.0,
+    "volume_unit": "arb",
+    "density_label": "default",
+    "density_g_per_cm3": 0.85,
+    "weight_g": NaN
+  },
+  {
+    "image": "images.jpeg",
+    "mask_index": 3,
+    "pixels_per_cm": null,
+    "volume_value": 0.0,
+    "volume_unit": "arb",
+    "density_label": "default",
+    "density_g_per_cm3": 0.85,
+    "weight_g": NaN
+  },
+  {
+    "image": "images.jpeg",
+    "mask_index": 4,
+    "pixels_per_cm": null,
+    "volume_value": 0.0,
+    "volume_unit": "arb",
+    "density_label": "default",
+    "density_g_per_cm3": 0.85,
+    "weight_g": NaN
+  },
+  {
+    "image": "images.jpeg",
+    "mask_index": 5,
+    "pixels_per_cm": null,
+    "volume_value": 598135.0,
+    "volume_unit": "arb",
+    "density_label": "default",
+    "density_g_per_cm3": 0.85,
+    "weight_g": NaN
+  },
+  {
+    "image": "images.jpeg",
+    "mask_index": 6,
+    "pixels_per_cm": null,
+    "volume_value": 0.0,
+    "volume_unit": "arb",
+    "density_label": "default",
+    "density_g_per_cm3": 0.85,
+    "weight_g": NaN
+  }
+]

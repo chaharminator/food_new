@@ -1,0 +1,6 @@
+{"t": 1760502222.1730757, "step": "image_start", "image": "image1.jpeg", "masks": 3, "px_per_cm": null}
+{"t": 1760502222.205838, "step": "image_done", "image": "image1.jpeg"}
+{"t": 1760502222.207461, "step": "image_start", "image": "image2.jpeg", "masks": 5, "px_per_cm": null}
+{"t": 1760502222.2430003, "step": "image_done", "image": "image2.jpeg"}
+{"t": 1760502222.2445297, "step": "image_start", "image": "images.jpeg", "masks": 7, "px_per_cm": null}
+{"t": 1760502222.2870872, "step": "image_done", "image": "images.jpeg"}
