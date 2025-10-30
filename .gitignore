@@ -17,9 +17,11 @@ Week4/InstantMesh/.*
 # FoodSAM nutrition50 datasets and outputs
 FoodSAM/dataset/nutrition50_flat/
 FoodSAM/dataset/nutrition50_subset-*/
+FoodSAM/dataset/realsense_overhead/
 FoodSAM/nutrition50_foodSAM_outputs/
 FoodSAM/zoedepth_nutrition50_outputs/
 FoodSAM/nutrition50_validation.csv
+FoodSAM/dataset/realsense_overhead_rgb/
 
 # Keep only notebooks under llms_approach
 llms_approach/*
